@@ -53,7 +53,7 @@
     {
       "id": 2,
       "address": "56849 Fadel Gateway",
-      "phoneNumber": "202-244-7090",
+      "phoneNumber": "980-546-3345",
       "userId": 1
     },
     {
@@ -66,8 +66,8 @@
   "employees": [
     {
       "id": 1,
-      "specialty": "PC Repair",
-      "rate": 72.47,
+      "specialty": "PC Repair and Mac Repair",
+      "rate": 76.47,
       "userId": 4
     },
     {
@@ -146,6 +146,20 @@
       "emergency": true,
       "dateCompleted": "",
       "id": 9
+    },
+    {
+      "userId": 2,
+      "description": "yooo",
+      "emergency": true,
+      "dateCompleted": "",
+      "id": 10
+    },
+    {
+      "userId": 2,
+      "description": "blah",
+      "emergency": true,
+      "dateCompleted": "",
+      "id": 11
     }
   ],
   "employeeTickets": [
